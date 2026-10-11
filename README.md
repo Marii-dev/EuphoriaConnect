@@ -1,6 +1,6 @@
 <img src="EuphoriaConnect.png" width="800" alt="Euphoria:Connect">
 
-**Euphoria-style active ragdolls for your games and Unity projects.**
+**Connect Euphoria to your games**
 
 Made by Marii.
 
