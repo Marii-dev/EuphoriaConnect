@@ -101,9 +101,9 @@ Connect downloads the update, installs it and restarts. The game mods you've ins
 Every version's changes are listed in the app under **About > Changelog**, and on the
 **[Releases page](https://github.com/Marii-dev/EuphoriaConnect/releases)**.
 
-## Tuning
+## Configurations
 
-Each game has a **Tuning** tab in Euphoria:Connect. Change how characters balance, step, protect themselves, how hard
+Each game has a **Configuration** tab in Euphoria:Connect. Change how characters balance, step, protect themselves, how hard
 hits push them, how long they stay down and more. Changes apply live while you play, so you can try things out straight
 away.
 
@@ -131,7 +131,7 @@ You can also give the app your own look in **Settings > Background**: pick a col
 | `euphoria_killshot 1` | A killing head shot drops NPCs on the spot. `0` (default): they stagger, then crumple. |
 | `euphoria_verbose 1` | Logs more detail in the console. Turn it on when reporting a bug. |
 
-Most other settings are in the **Tuning** tab, so you don't need to type them.
+Most other settings are in the **Configurations** tab, so you don't need to type them.
 
 ## Something broke?
 
