@@ -8,8 +8,8 @@ Euphoria:Connect runs the Euphoria active-ragdoll runtime on your PC and plugs i
 don't just flop over when they get hit: they stagger, try to keep their balance, put their arms out to break a fall,
 hold their wounds, and get back up.
 
-**[⬇ Download the latest version](https://github.com/Marii-dev/EuphoriaConnect/releases/latest)** ·
-**[💬 Join the Discord](https://discord.gg/95npVRknen)**
+**[Download the latest version](https://github.com/Marii-dev/EuphoriaConnect/releases/latest)** ·
+**[Join the Discord](https://discord.gg/95npVRknen)**
 
 ---
 
@@ -171,7 +171,7 @@ Join the **[Discord server](https://discord.gg/95npVRknen)** for update news, he
 
 ## Support
 
-If you enjoy it, you can support development on **[Ko-fi](https://ko-fi.com/djmarii)**. ☕
+If you enjoy it, you can support development on **[Ko-fi](https://ko-fi.com/djmarii)**.
 
 ## Credits
 
