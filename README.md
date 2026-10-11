@@ -25,7 +25,7 @@ hold their wounds, and get back up.
 - **The world:** walls, floors, railings and props are copied into Euphoria, so the body reacts to what's around it.
 
 ## Supported
-
+<img src="ConnectGames.png" width="800" alt="Euphoria:Connect">
 | | What happens |
 |---|---|
 | **Garry's Mod** | Shot NPCs and ragdolls react with Euphoria. Spawn your own Euphoria characters too. |
