@@ -170,6 +170,8 @@ Garry's Mod, Blade & Sorcery and BONELAB share one runtime, so play one at a tim
 
 ## Community
 
+<a href="https://discord.gg/95npVRknen"><img src="euphoriadiscord.png" width="500" alt="Euphoria:Discord"></a>
+
 Join the **[Discord server](https://discord.gg/95npVRknen)** for update news, help, sharing clips and suggesting games.
 
 ## Support
