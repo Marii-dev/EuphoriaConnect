@@ -1,8 +1,7 @@
-# Euphoria:Connect
+<img src="EuphoriaConnect.png" width="800" alt="Euphoria:Connect">
 
 **Euphoria-style active ragdolls for your games and Unity projects.**
 
-<img src="EuphoriaConnect.png" width="800" alt="Euphoria:Connect">
 Made by Marii.
 
 Euphoria:Connect runs the Euphoria active-ragdoll runtime on your PC and plugs it into games and Unity. Characters
