@@ -1,4 +1,4 @@
-<img src="EuphoriaConnect.png" width="800" alt="Euphoria:Connect">
+<img src="EuphoriaConnect-banner.png" width="800" alt="Euphoria:Connect">
 
 **Euphoria-style active ragdolls for your games and Unity projects.**
 
