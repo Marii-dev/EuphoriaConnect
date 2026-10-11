@@ -66,6 +66,7 @@ Then pick your game below.
    - Grab them with the physgun.
 
 Works on both the normal 32-bit version and the x86-64 beta.
+Multiplayer works only if one person is running as the host and all having the module required in able for it to work.
 
 ### Blade & Sorcery
 
