@@ -5,7 +5,7 @@
 Made by Marii.
 
 Euphoria:Connect runs the Euphoria runtime on your PC and connects into games. Characters
-don't just flop over when they get hit: they stagger, try to keep their balance, put their arms out to break a fall,
+don't just fall over when they get hit: they stagger, try to keep their balance, put their arms out to break a fall,
 hold their wounds, and get back up.
 
 **[Download the latest version](https://github.com/Marii-dev/EuphoriaConnect/releases/latest)** ·
@@ -85,7 +85,7 @@ Multiplayer works only if one person is running as the host and all having the m
 
 ### Unity
 
-1. Your project needs Unity 2021.3 LTS or newer (I've tested on Unity 6000.3).
+1. Your project needs Unity 2021.3 LTS or newer (I use it on Unity 6000.3).
 2. In Euphoria:Connect, pick **Unity**, choose your project with **Browse** and hit **Install**.
 3. Turn Unity on.
 4. In Unity: **Tools > Euphoria > Create Starter Scene**, then hit **Play**. Or add a `EuphoriaCharacter` to an object in
