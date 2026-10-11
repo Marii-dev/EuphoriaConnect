@@ -26,10 +26,9 @@ hold their wounds, and get back up.
 
 ## Supported
 <img src="ConnectGames.png" width="800" alt="Euphoria:Connect">
-| | What happens |
-|---|---|
+
 | **Garry's Mod** | Shot NPCs and ragdolls react with Euphoria. Spawn your own Euphoria characters too. |
-| **Blade & Sorcery** | Creatures you hit hard, knock down or kill react with Euphoria. |
+| **Blade & Sorcery** | Characters you hit hard, knock down or kill react with Euphoria. |
 | **BONELAB** | NPCs you shoot, hit or kill react with Euphoria (through MelonLoader). |
 | **Unity** | A plugin for your own projects: drop a Euphoria character into any scene. |
 
