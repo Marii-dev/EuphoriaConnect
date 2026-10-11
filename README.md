@@ -4,7 +4,7 @@
 
 Made by Marii.
 
-Euphoria:Connect runs the Euphoria active-ragdoll runtime on your PC and plugs it into games and Unity. Characters
+Euphoria:Connect runs the Euphoria runtime on your PC and connects into games. Characters
 don't just flop over when they get hit: they stagger, try to keep their balance, put their arms out to break a fall,
 hold their wounds, and get back up.
 
@@ -155,13 +155,13 @@ Or ask on the **[Discord server](https://discord.gg/95npVRknen)**.
 ## FAQ
 
 **Does it work in multiplayer?**
-It's made for single-player. Garry's Mod servers may work, but that isn't tested.
+Yes. Garry's Mod servers may work, but that isn't properly tested.
 
 **Do I need to keep Euphoria:Connect open?**
 Yes. It runs the Euphoria runtime that the games talk to. Switch the game on in the app, then play.
 
 **Can I use it with other mods?**
-Usually yes. If something clashes, report it with the **Report a bug** button.
+Usually yes. If something doesn't seem right, report it with the **Report a bug** button.
 
 **Can I play more than one game with it at once?**
 Garry's Mod, Blade & Sorcery and BONELAB share one runtime, so play one at a time.
